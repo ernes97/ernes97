@@ -27,12 +27,10 @@ Olá! Sou desenvolvedor full‑stack que gosta de transformar ideias em código 
 
 ---
 
-📦 Projetos em destaque
+📦 Projetos em destaque, ainda em privados XD
 - [Projeto A](https://github.com/SEU_USUARIO/projeto-a) — Uma descrição curta e direta: o que resolve / por que é legal.  
 - [Projeto B](https://github.com/SEU_USUARIO/projeto-b) — Ferramenta divertida para X, com deploy e tests.  
 - [Projeto C](https://github.com/SEU_USUARIO/projeto-c) — Experimento com IA / automação / integrações.
-
-(Dica: substitua os links acima pelos seus repositórios para aparecerem aqui.)
 
 ---
 
@@ -44,6 +42,6 @@ Olá! Sou desenvolvedor full‑stack que gosta de transformar ideias em código 
 ---
 
 📫 Contato
-[![Email](https://img.shields.io/badge/-Email-%23D44638?style=flat&logo=gmail&logoColor=white)](mailto:seu-email@example.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-usuario)
-[![Twitter](https://img.shields.io/badge/-X-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/seuusuario)
+[![Email](https://img.shields.io/badge/-Email-%23D44638?style=flat&logo=gmail&logoColor=white)](mailto:ernestoxboy20@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ernesto-lima-teixeira-182533295/)
+[![Twitter](https://img.shields.io/badge/-X-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/Shy9714)
